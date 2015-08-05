@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-customink",
+  "version": "1.0.0",
+  "description": "CustomInk's ESLint configuration files",
+  "main": "base.js",
+  "author": "Jonathan Lehman <jlehman@customink.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "babel-eslint": "^4.1.6 || 5.0.0-beta6",
+    "eslint": "^1.10.3",
+    "eslint-plugin-react": "^3.13.1"
+  }
+}
