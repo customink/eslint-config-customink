@@ -8,7 +8,7 @@ This package provides CustomInks's [`ESLint`](http://eslint.org/) configurations
 
 ## Usage
 
-Add `"extends": ["customink"]` to your ESLint config file to get the base eslint configuration. You can also use `customink/browser`, `customink/node`, and `customink/react`.
+Add `"extends": ["customink"]` to your ESLint config file to get the base eslint configuration. You can also use `customink/browser`, `customink/node`, `customink/mocha`, and `customink/react`.
 
 ## Example
 
