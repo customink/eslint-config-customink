@@ -33,6 +33,7 @@ module.exports = {
     "no-caller": 2,
     "no-class-assign": 2,
     "no-cond-assign": 2,
+    "no-console": 2,
     "no-const-assign": 2,
     "no-control-regex": 2,
     "no-debugger": 2,
