@@ -38,6 +38,11 @@ module.exports = {
     "react/jsx-uses-react": 1,
     "react/jsx-uses-vars": 1,
     "react/jsx-equals-spacing": [1, "never"],
-    "react/jsx-indent-props": [1, 4]
+    "react/jsx-indent": [1, 2],
+    "react/jsx-indent-props": [1, 2],
+    "react/jsx-closing-bracket-location": [1, {
+      "nonEmpty": "after-props",
+      "selfClosing": "tag-aligned"
+    }]
   }
 };
